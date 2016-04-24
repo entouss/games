@@ -11,7 +11,7 @@
 				highimage : '=',
 				lowimage : '='
 			},
-			templateUrl : '/dominos/domino.html'
+			templateUrl : 'dominos/domino.html'
 		};
 	}
 })();
