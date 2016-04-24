@@ -9,7 +9,7 @@
 				low = number1;
 			}
 			var text = high+''+low;
-			var image = '../dominos/images/';
+			var image = './dominos/images/';
 			highimage = image + high + '.svg';
 			lowimage = image + low + '.svg';
 			var id = high+''+low;
