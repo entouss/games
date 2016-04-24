@@ -2,7 +2,7 @@
 	var dices = {order:[]};
 	for (var number = 1; number <= 6; number++) {
 			var text = ''+number;
-			var image = 'dices/images/';
+			var image = '../dices/images/';
 			image += number;
 			image += '.svg';
 			var id = number;
