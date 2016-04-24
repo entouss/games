@@ -9,7 +9,7 @@
 			if (text == '11') { text = 'J'; }
 			if (text == '12') { text = 'Q'; }
 			if (text == '13') { text = 'K'; }
-			var image = 'cards/images/';;
+			var image = '../cards/images/';;
 			if (suite=='H') { image += 'heart'; }
 			else if (suite=='D') { image += 'diamond'; }
 			else if (suite=='C') { image += 'club'; }
