@@ -11,7 +11,7 @@
 				text : '=',
 				image : '='
 			},
-			templateUrl : '/dices/dice.html'
+			templateUrl : 'dices/dice.html'
 		};
 	}
 })();
