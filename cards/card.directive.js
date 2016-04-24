@@ -11,7 +11,7 @@
 				text : '=',
 				image : '='
 			},
-			templateUrl : '/cards/card.html'
+			templateUrl : 'cards/card.html'
 		};
 	}
 })();
